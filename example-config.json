@@ -1,0 +1,7 @@
+{
+    "client": {
+        "owner": "Your discord ID Here",
+        "commandPrefix": "#"
+    },
+    "token": "Your Token Here"
+}
